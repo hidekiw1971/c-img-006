@@ -4,6 +4,7 @@
 - 元の画像は大きさがかなり異なるものを使用。
 - カードタイプを想定。
 - grid-tempalate-columns: repeat(4,1fr);を使用し、横並びにしました。
+- 実際の画像もgithubに置いてるので、参照可能です。（urlをコピペすれば参照できます。）
 
 # w3c html/css ck
 - confirmed or unconfirmed
