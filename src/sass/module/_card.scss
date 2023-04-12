@@ -1,6 +1,6 @@
 @use "global" as *;
 
-.card>a {
+.card>a>figure {
     display: block;
     position: relative;
     overflow: hidden;
